@@ -1,0 +1,1 @@
+         print(x,"Is not a prime Number")
